@@ -1,5 +1,5 @@
 
-# nRF52840 Zephyr TrainingExamples
+# nRF52840 Zephyr Training Examples
 This repository contains small example projects for the nRF52840 DK using the Zephyr RTOS.  
 I use these examples for learning purposes as I am new to Zephyr development.  
 Many of the examples are based on or inspired by Nordic Semiconductor's official samples and training materials.
